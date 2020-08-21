@@ -1,0 +1,23 @@
+{
+  "name": "get-cpanel-nodejs",
+  "version": "1.0.0",
+  "description": "node-js",
+  "main": "get-certs.js",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabricioguedes/cpanel-nodejs.git"
+  },
+  "author": "Fabrício Guedes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabricioguedes/cpanel-nodejs/issues"
+  },
+  "homepage": "https://github.com/fabricioguedes/cpanel-nodejs#readme"
+}
